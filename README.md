@@ -48,10 +48,6 @@ O objetivo do projeto foi criar um clone do Spotify totalmente responsivo utiliz
 
 <br>
 
-## Observação:
-As imagens do projeto não abrem se a página for aberta diretamente no navegador, porém, se ela foi carregada através do Live Server do Visual Code, funcionará perfeitamente.
-
-<br>
 
 ## Contato
 <div>
